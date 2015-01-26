@@ -1,1 +1,1 @@
-Chess.
+This is the game of chess featuring a graphical user interface made in Java Swing. Two players battle each other by taking turns moving chess pieces using the mouse. The original version of this game was made in a team of three - Adam Mounts, Michael Goheen, and Jon La Marr. I intend to make further improvements and include a computer player with varying levels of AI difficulties in the not too distant future.
